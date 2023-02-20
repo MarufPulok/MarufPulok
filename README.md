@@ -1,7 +1,7 @@
 
 # Hello, Maruf here <br>   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
-[![LinkedIn Follow](https://img.shields.io/badge/%20-Follow-000000?color=0b0b0b&labelColor=333333&logo=linkedin&logoColor=f5f7fe)]([http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tahsintunan](https://www.linkedin.com/in/maruf-hossain-2633951bb/))
+[![LinkedIn Follow](https://img.shields.io/badge/%20-Follow-000000?color=0b0b0b&labelColor=333333&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/maruf-hossain-2633951bb/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-000000?color=0b0b0b&labelColor=333333&logo=gmail&logoColor=f5f7fe)](mailto:marufpulok98@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
 Welcome to my Github profile! I code with coffee, creativity, and a can-do attitude. As a passionate developer, I'm constantly pushing the boundaries of what's possible, exploring new technologies and coding solutions to tackle real-world challenges. Let's build something awesome together!
