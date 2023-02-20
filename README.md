@@ -1,24 +1,20 @@
 
-# Hello, Maruf here    <img src="[https://github.com/trinib/trinib](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)">
+# Hello, Maruf here <br>   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
-[![LinkedIn Follow](https://img.shields.io/badge/%20-Follow-000000?color=0b0b0b&labelColor=333333&logo=linkedin&logoColor=f5f7fe)](http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tahsintunan)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-000000?color=0b0b0b&labelColor=333333&logo=gmail&logoColor=f5f7fe)](mailto:tahsintunan@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+[![LinkedIn Follow](https://img.shields.io/badge/%20-Follow-000000?color=0b0b0b&labelColor=333333&logo=linkedin&logoColor=f5f7fe)]([http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tahsintunan](https://www.linkedin.com/in/maruf-hossain-2633951bb/))
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-000000?color=0b0b0b&labelColor=333333&logo=gmail&logoColor=f5f7fe)](mailto:marufpulok98@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-I'm an aspiring Software Engineer, Web Developer, and hobbyist Game Developer. Currently pursuing a bachelor's degree in Software Engineering at IICT, SUST. My areas of interest are Computer Simulation Modelling, Web3 based Fintech, Deep Learning, and Software and Systems Architecture.
-
-Aside from CS stuff, I also have a keen interest in customer-driven iterative product development and managing teams. Love to observe and absorb as much knowledge as possible and apply it to my work.
+Welcome to my Github profile! I code with coffee, creativity, and a can-do attitude. As a passionate developer, I'm constantly pushing the boundaries of what's possible, exploring new technologies and coding solutions to tackle real-world challenges. Let's build something awesome together!
 
 
 ### Tech Stack
 
 ```json
 {
-  "language": ["go", "python", "rust", "typescript", "csharp"],
-  "frontend": ["react", "next", "vue"],
-  "backend": ["gin", "node", "fastapi", "flask"],
-  "database": ["postgres", "mysql", "mongodb", "redis"],
-  "ml-library": ["scikit-learn", "keras"],
-  "web3": ["solana", "anchor"]
+  "language": ["java", "python", "javascript", "typescript", "c/c++"],
+  "frontend": ["react", "next"],
+  "backend": ["node", "django", "fastapi"],
+  "database": ["postgres", "mysql", "mongodb"]
 }
 ```
 
@@ -26,13 +22,10 @@ Aside from CS stuff, I also have a keen interest in customer-driven iterative pr
 ### Things you might wanna know
 
 <!-- - 🔭 **Currently working on:** ... -->
-- 🌱 **Currently learning:** Actix-Web, tRPC, Prisma, Solana-Go, PyTest
-- 🧪 **Experimenting on:** GraphQL, Graphene, Kubernetes, CircleCI
-- 📚 **Currently reading:** ~~Designing Data-Intensive Applications - _Martin Kleppmann_~~
-- 👯 **Looking to collaborate on:** Research projects focused on Cellular Automata or Neural Networks
-- 🤔 **Looking for help with:** Systems Design, Terraform, Argo, CI/CD
-- 💬 **Ask me about:** CS, Startups, Games, Classical Music, Mythology
-- ⚡ **Fun fact:** [INTJ-A](https://www.16personalities.com/intj-personality) (Yes, I unironically find MBTI pretty accurate)
+- 🌱 **Currently learning:** GraphQl
+- 🧪 **Experimenting on:** Next, Redux, fastapi
+- 💬 **Ask me about:** Football, Python, Tech-stuffs, Metal Music, World History, Myth and legends
+- ⚡ **Fun fact:** [ISTP-A](https://www.16personalities.com/istp-personality) (I thrive on the thrill of exploring new ideas and pushing the limits of what's possible.)
 
 
 ### Happy coding!
