@@ -17,7 +17,7 @@ Welcome to my Github profile! I code with coffee, creativity, and a can-do attit
   "database": ["postgres", "mysql", "mongodb"]
 }
 ```
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anindosarker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ### Things you might wanna know
 
