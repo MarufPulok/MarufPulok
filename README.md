@@ -19,6 +19,8 @@ Welcome to my Github profile! I code with coffee, creativity, and a can-do attit
 ```
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarufPulok&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MarufPulok&show_icons=true&theme=transparent)
+
 ### Things you might wanna know
 
 <!-- - 🔭 **Currently working on:** ... -->
