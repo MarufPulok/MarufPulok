@@ -27,6 +27,15 @@ Full-stack Software Engineer with **3+ years** of experience building scalable S
 
 ---
 
+## 🔨 Currently Working On
+
+- 🚀 Building scalable SaaS platform with Next.js and Nest.js
+- ☁️ Optimizing cloud infrastructure on AWS
+- 📚 Exploring advanced streaming architectures for large file handling
+- 🎯 Contributing to open-source projects
+
+---
+
 ## 💼 Professional Experience
 
 ### 🚀 Senior Software Engineer | KLS Innovation
@@ -103,6 +112,16 @@ Full-stack Software Engineer with **3+ years** of experience building scalable S
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=MarufPulok&theme=onedark&no-frame=true&column=7)
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -112,6 +131,83 @@ Full-stack Software Engineer with **3+ years** of experience building scalable S
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarufPulok&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarufPulok&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarufPulok&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🎓 [IvyOasis Tutoring Platform](https://github.com/MarufPulok/ivyoasis-platform)
+
+**Tech Stack:** Nest.js, MongoDB, Next.js  
+**Description:** Comprehensive tutoring platform serving **1,000+ users** with course enrollment, exams, assignments, and calendar features. Optimized MongoDB queries reducing API latency by **30%**.
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Tech](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Tech](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tech](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 📤 [Bulk Upload System - 100GB Streaming](https://github.com/MarufPulok/bulk-upload-system)
+
+**Tech Stack:** Next.js, Nest.js, AWS S3, Streaming Architecture  
+**Description:** Scalable bulk upload system handling **up to 100GB** files using streaming architecture. Built for SaaS platform with efficient memory management, progress tracking, and robust error handling. Implemented ARW image preview and notification systems.
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Tech](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tech](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Tech](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🎨 [OnlyMP3](https://github.com/MarufPulok/OnlyMP3)
+
+**Tech Stack:** Next.js, Supabase, Tailwind CSS  
+**Description:** NFT-based artwork generator platform with user authentication, email verification, and duplication prevention. Delivered ahead of deadline for US-based client.
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Tech](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tech](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white)
+![Tech](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+### 💼 [Workspace Management Platform](https://github.com/MarufPulok/workspace-management)
+
+**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), Docker  
+**Description:** Workspace management platform for stylists with location services, customizable profiles, and Docker-based deployment. Improved user engagement by **20%**.
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Tech](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tech](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tech](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Tech](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 📅 [Class Routine Optimizer](https://github.com/MarufPulok/Class-Routine-Optimizer)
+
+**Tech Stack:** Django, SQLite  
+**Description:** Automated routine generator that considers instructor availability, room limits, and batch-wise hours. Optimizes class scheduling for educational institutions.
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Tech](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tech](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tech](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
