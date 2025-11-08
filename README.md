@@ -150,7 +150,7 @@ Full-stack Software Engineer with **3+ years** of experience building scalable S
 
 <div align="center">
 
-### 🎓 [IvyOasis Tutoring Platform](https://github.com/MarufPulok/ivyoasis-platform)
+### 🎓 IvyOasis Tutoring Platform
 
 **Tech Stack:** Nest.js, MongoDB, Next.js  
 **Description:** Comprehensive tutoring platform serving **1,000+ users** with course enrollment, exams, assignments, and calendar features. Optimized MongoDB queries reducing API latency by **30%**.
@@ -162,7 +162,7 @@ Full-stack Software Engineer with **3+ years** of experience building scalable S
 
 ---
 
-### 📤 [Bulk Upload System - 100GB Streaming](https://github.com/MarufPulok/bulk-upload-system)
+### 📤 Bulk Upload System - 100GB Streaming
 
 **Tech Stack:** Next.js, Nest.js, AWS S3, Streaming Architecture  
 **Description:** Scalable bulk upload system handling **up to 100GB** files using streaming architecture. Built for SaaS platform with efficient memory management, progress tracking, and robust error handling. Implemented ARW image preview and notification systems.
@@ -174,7 +174,7 @@ Full-stack Software Engineer with **3+ years** of experience building scalable S
 
 ---
 
-### 🎨 [OnlyMP3](https://github.com/MarufPulok/OnlyMP3)
+### 🎨 OnlyMP3
 
 **Tech Stack:** Next.js, Supabase, Tailwind CSS  
 **Description:** NFT-based artwork generator platform with user authentication, email verification, and duplication prevention. Delivered ahead of deadline for US-based client.
@@ -186,7 +186,7 @@ Full-stack Software Engineer with **3+ years** of experience building scalable S
 
 ---
 
-### 💼 [Workspace Management Platform](https://github.com/MarufPulok/workspace-management)
+### 💼 Workspace Management Platform
 
 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), Docker  
 **Description:** Workspace management platform for stylists with location services, customizable profiles, and Docker-based deployment. Improved user engagement by **20%**.
@@ -199,7 +199,7 @@ Full-stack Software Engineer with **3+ years** of experience building scalable S
 
 ---
 
-### 📅 [Class Routine Optimizer](https://github.com/MarufPulok/Class-Routine-Optimizer)
+### 📅 [Class Routine Optimizer](https://github.com/MarufPulok/Class-Routine_Optimizer)
 
 **Tech Stack:** Django, SQLite  
 **Description:** Automated routine generator that considers instructor availability, room limits, and batch-wise hours. Optimizes class scheduling for educational institutions.
