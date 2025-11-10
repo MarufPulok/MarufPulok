@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marufhpulok)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mhpulok@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maruf-hossain-portfolio-lovat.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/marufpulok98)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarufPulok)
 
@@ -240,6 +241,7 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 
 - 📧 **Email:** [dev.mhpulok@gmail.com](mailto:dev.mhpulok@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/marufhpulok](https://linkedin.com/in/marufhpulok)
+- 🌐 **Portfolio:** [maruf-hossain-portfolio-lovat.vercel.app](https://maruf-hossain-portfolio-lovat.vercel.app/)
 - 💻 **LeetCode:** [leetcode.com/marufpulok98](https://leetcode.com/marufpulok98)
 - 📱 **Phone:** +8801584005284
 - 📍 **Location:** Sylhet, Bangladesh
