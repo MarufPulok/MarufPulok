@@ -131,7 +131,7 @@ Full-stack Software Engineer with **3+ years** of experience building scalable S
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarufPulok&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarufPulok&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=MarufPulok&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
