@@ -1,7 +1,7 @@
 # Maruf Hossain
 
-**Software Engineer — SaaS, Cloud & Streaming Systems**
-Remote • EU / US teams
+Software Engineer (Backend-Focused, SaaS)  
+Remote • Open to EU / US teams
 
 📧 [dev.mhpulok@gmail.com](mailto:dev.mhpulok@gmail.com)
 🔗 linkedin.com/in/marufhpulok
@@ -12,20 +12,19 @@ Remote • EU / US teams
 
 ## Summary
 
-Software Engineer with **3+ years of production experience** designing and owning **backend-heavy SaaS systems** and **large-file streaming architectures**.
-Built and operated systems serving **10,000+ users**, reduced API latency by **30%**, cut cloud costs by **25%**, and shipped infrastructure relied on daily in production.
+Backend-focused Software Engineer with 3+ years of experience designing, building, and operating production SaaS systems. Proven ability to own backend services end-to-end — from API design and data modeling to performance optimization, deployment, and reliability in live environments.
 
-I specialize in **high-concurrency APIs**, **data-heavy workflows**, and **end-to-end system ownership**.
+Built systems serving 10,000+ users, reduced API latency by 30% through query optimization and indexing, lowered cloud costs by 25%, and delivered high-throughput streaming pipelines for large data workloads. Strong foundation in system design, data consistency, and operational excellence.
 
 ---
 
-## What I Do Well
+## Technical Skills
 
-- **System Design:** Large-file streaming, background processing, failure recovery
+- **System Design:** High-throughput APIs, streaming data pipelines, background processing
 - **Backend:** NestJS, Node.js, REST APIs, MongoDB, PostgreSQL
 - **Frontend:** Next.js, React, TypeScript
 - **Cloud & DevOps:** AWS (S3, EC2), Docker, CI/CD, Linux
-- **Ownership:** Design → build → deploy → operate
+- **Engineering Practices:** Code reviews, automated testing, mentoring, on-call ownership
 
 ---
 
@@ -35,7 +34,7 @@ I specialize in **high-concurrency APIs**, **data-heavy workflows**, and **end-t
 
 _Aug 2024 – Present_
 
-- **Own and architect** a full-stack SaaS platform (Next.js + NestJS) serving **5,000+ active users** with **99.5% uptime**
+- Designed and owned backend services for a production SaaS platform serving **5,000+ active users** with **99.5% uptime**
 - Designed a **streaming-based large-file upload system** to eliminate memory bottlenecks under high concurrency; supports **100GB+ files** and **10,000+ concurrent uploads**
 - Reduced upload failure rate from **15% → 2%** and server memory usage by **60%** through chunked processing and retries
 - Built high-throughput **ARW image preview pipeline** processing **50,000+ images/month**, reducing preview time from **5s → <1s**
@@ -71,7 +70,7 @@ _Feb 2023 – Nov 2023_
 
 ---
 
-## Selected Systems
+## Production Systems & Engineering Work
 
 ### Large-File Upload Platform (Production)
 
