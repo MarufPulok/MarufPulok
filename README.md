@@ -1,40 +1,31 @@
 # Maruf Hossain
 
-**Software Engineer (SaaS, Cloud, Streaming Systems)**  
-Open to EU / US teams
+**Software Engineer — SaaS, Cloud & Streaming Systems**
+Remote • EU / US teams
 
-📧 <dev.mhpulok@gmail.com>  
-🔗 <https://linkedin.com/in/marufhpulok>  
-💻 <https://github.com/MarufPulok>  
-🌐 <https://maruf-hossain-portfolio-lovat.vercel.app>
+📧 [dev.mhpulok@gmail.com](mailto:dev.mhpulok@gmail.com)
+🔗 linkedin.com/in/marufhpulok
+💻 github.com/MarufPulok
+🌐 maruf-hossain-portfolio-lovat.vercel.app
 
 ---
 
 ## Summary
 
-Full-Stack Software Engineer with **3+ years of production experience** building **scalable SaaS platforms**, **large-file streaming systems**, and **cloud-native backends**. Built systems serving **10,000+ users** with proven track record of reducing API latency by **30%**, optimizing cloud costs by **25%**, and shipping features that increased user engagement by **20%**.
+Software Engineer with **3+ years of production experience** designing and owning **backend-heavy SaaS systems** and **large-file streaming architectures**.
+Built and operated systems serving **10,000+ users**, reduced API latency by **30%**, cut cloud costs by **25%**, and shipped infrastructure relied on daily in production.
 
-I build resilient, high-scale backend systems and ship end-to-end solutions that users rely on daily.
+I specialize in **high-concurrency APIs**, **data-heavy workflows**, and **end-to-end system ownership**.
 
 ---
 
-## Core Strengths
+## What I Do Well
 
-- **System Design:** Streaming uploads, background processing
+- **System Design:** Large-file streaming, background processing, failure recovery
 - **Backend:** NestJS, Node.js, REST APIs, MongoDB, PostgreSQL
-- **Frontend:** Next.js, React, TypeScript, Tailwind
+- **Frontend:** Next.js, React, TypeScript
 - **Cloud & DevOps:** AWS (S3, EC2), Docker, CI/CD, Linux
-- **Engineering Discipline:** Code reviews, testing, mentoring juniors
-
----
-
-## Engineering Impact (Selected)
-
-- Designed **streaming bulk upload system** handling **100GB+ files** with **10,000+ concurrent uploads**; reduced server memory usage by **60%** and upload failure rate from **15% to 2%**
-- Reduced **API latency by 30%** (1.2s → 840ms) through MongoDB query optimization and indexing; decreased database query costs by **40%**
-- Optimized AWS infrastructure reducing costs by **25%** through EC2 instance optimization and S3 lifecycle policies
-- Automated CI/CD pipelines reducing deployment time from **20 minutes to 5 minutes**; implemented blue-green deployment achieving **zero downtime**
-- Mentored **2 interns** who shipped **3 production features** in 2 months; established code review process
+- **Ownership:** Design → build → deploy → operate
 
 ---
 
@@ -44,11 +35,12 @@ I build resilient, high-scale backend systems and ship end-to-end solutions that
 
 _Aug 2024 – Present_
 
-- Architected and own full-stack SaaS platform using **Next.js** and **NestJS**, serving **5,000+ active users** with **99.5% uptime**
-- Architected large-file upload system used across the platform; implemented streaming pipeline with chunked processing
-- Built ARW image preview feature processing **50,000+ images monthly** using Web Workers and image optimization
-- Own cloud infrastructure and cost optimization strategy; manage EC2 instances and S3 lifecycle policies
-- Own CI/CD and deployment strategy; implemented blue-green deployment for zero-downtime releases
+- **Own and architect** a full-stack SaaS platform (Next.js + NestJS) serving **5,000+ active users** with **99.5% uptime**
+- Designed a **streaming-based large-file upload system** to eliminate memory bottlenecks under high concurrency; supports **100GB+ files** and **10,000+ concurrent uploads**
+- Reduced upload failure rate from **15% → 2%** and server memory usage by **60%** through chunked processing and retries
+- Built high-throughput **ARW image preview pipeline** processing **50,000+ images/month**, reducing preview time from **5s → <1s**
+- **Own infrastructure and cost optimization**: cut AWS spend by **25%** via EC2 right-sizing and S3 lifecycle policies
+- **Own CI/CD and deployments**: implemented blue-green releases, reducing deploy time **20 min → 5 min** with zero downtime
 
 **Tech:** Next.js, NestJS, TypeScript, AWS (S3, EC2), Docker
 
@@ -58,88 +50,80 @@ _Aug 2024 – Present_
 
 _Dec 2023 – Jun 2024_
 
-- Architected tutoring platform with course enrollment, exams, and calendar features serving **1,200+ active users**; increased monthly active users by **35%** in 6 months
-- Owned database performance optimization; redesigned query patterns and implemented indexing strategy
-- Led automated testing initiative achieving **75% code coverage**; reduced production bugs by **50%**
+- Architected and shipped core features for a tutoring platform serving **1,200+ active users**
+- Increased MAU by **35%** in 6 months through performance and feature improvements
+- **Owned database performance**: redesigned query patterns and indexing, cutting API latency **30% (1.2s → 840ms)** and query costs **40%**
+- Led automated testing adoption to **75% coverage**, reducing production bugs by **50%**
 
 **Tech:** NestJS, Next.js, MongoDB
 
 ---
 
-### Junior Software Engineer — **ShellBeehaken Ltd**
+### Software Engineer — **ShellBeehaken Ltd**
 
 _Feb 2023 – Nov 2023_
 
-- Delivered MERN workspace platform for **500+ stylists**; improved search latency by **45%** and uptime from **95% to 98.5%**
-- Containerized application with Docker reducing deployment time by **70%**; implemented caching layer handling **1,000+ location queries per day**
+- Delivered MERN-based workspace platform for **500+ users**
+- Improved location search latency by **45%** and system uptime **95% → 98.5%**
+- Dockerized services, reducing deployment time by **70%**
 
 **Tech:** MongoDB, Express, React, Node.js, Docker
 
 ---
 
-## Selected Projects
+## Selected Systems
 
-### Bulk Upload System (100GB Streaming)
+### Large-File Upload Platform (Production)
 
 **Next.js • NestJS • AWS S3**
 
-Production-grade bulk upload system using **streaming architecture**:
-
-- Handles files up to **100GB** with **10,000+ concurrent uploads**
-- Reduced server memory usage by **60%** through chunked processing
-- Upload failure rate reduced from **15% to 2%** with retry and recovery mechanisms
+- Streaming architecture supporting **100GB+ files** and **10,000+ concurrent uploads**
+- Memory-safe chunked processing with retries and failure recovery
+- Used daily in production by thousands of users
 
 ---
 
-### StayHub — Full-Stack Vacation Rental Platform
+### StayHub — Vacation Rental Platform
 
-**Next.js 13 • TypeScript • MongoDB • Prisma**
+**Next.js • TypeScript • MongoDB • Prisma**
 
-Airbnb-inspired platform with advanced features:
-
-- Advanced search system with **15+ filter criteria** and sub-second performance using compound indexes
-- Reservation management with date conflict detection, dynamic pricing, and transaction-safe booking flow
-- OAuth authentication (Google, GitHub) with NextAuth.js and multi-step property listing with Leaflet map integration
+- High-performance search with **15+ filters** using compound indexes
+- Transaction-safe reservation system with conflict detection
+- OAuth auth (Google/GitHub) and multi-step listing flow
 
 ---
 
-### Crumbit — Social Discussion Platform (Reddit Clone)
+### Crumbit — Social Discussion Platform
 
-**Next.js 13 • TypeScript • MongoDB • Upstash Redis**
+**Next.js • MongoDB • Redis**
 
-Reddit-inspired social platform:
-
-- Redis caching layer reducing API response time by **60%** for popular content
-- Nested comment threading with infinite depth and real-time vote updates
-- Rich text editor using EditorJS with infinite scroll pagination and accessible UI (95+ Lighthouse score)
+- Redis-backed caching reducing hot-path API latency by **60%**
+- Deeply nested comments, real-time voting, infinite scroll
+- **95+ Lighthouse score**
 
 ---
 
 ## Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python, Java, C++  
-**Frontend:** React, Next.js, Tailwind, Redux  
-**Backend:** NestJS, Node.js, Express, Django  
-**Databases:** MongoDB, PostgreSQL, MySQL, SQLite, Supabase, Prisma  
-**Cloud/DevOps:** AWS (S3, EC2), Docker, Linux, CI/CD  
+**Languages:** TypeScript, JavaScript, Python
+**Backend:** NestJS, Node.js, Express
+**Frontend:** React, Next.js
+**Databases:** MongoDB, PostgreSQL
+**Cloud/DevOps:** AWS, Docker, Linux, CI/CD
 **Architecture:** REST APIs, Streaming Systems, Service-Oriented Design
-
----
 
 ---
 
 ## Education
 
-**B.Sc. in Software Engineering**  
-Shahjalal University of Science and Technology  
-CGPA: **3.61 / 4.00** (2019 – 2023)
-
-_Maintained excellent academic performance while working full-time_
+**B.Sc. in Software Engineering**
+Shahjalal University of Science and Technology
+CGPA: **3.61 / 4.00**
 
 ---
 
 ## Availability
 
-Open to **EU/US remote backend or full-stack roles** in SaaS, B2B, or infrastructure teams.
+Seeking **remote backend or full-stack roles** (EU / US) on **SaaS, B2B, or infrastructure-focused teams**.
 
-If your team values **engineers who ship and own systems**, let's talk.
+If your team needs an engineer who **owns systems end-to-end and ships under real constraints**, let's talk.
