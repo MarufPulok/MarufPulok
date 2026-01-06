@@ -1,128 +1,105 @@
-# Maruf Hossain
+# Full Stack Software Developer
 
-Software Engineer (Backend-Focused, SaaS)  
-Remote • Open to EU / US teams
+Remote • Contract / Full-time
 
-📧 [dev.mhpulok@gmail.com](mailto:dev.mhpulok@gmail.com)
-🔗 linkedin.com/in/marufhpulok
-💻 github.com/MarufPulok
-🌐 maruf-hossain-portfolio-lovat.vercel.app
+Full-stack developer with 3+ years experience building and maintaining web apps. Available immediately for remote contract or full-time work.
 
 ---
 
-## Summary
+## About me
 
-Backend-focused Software Engineer with 3+ years of experience designing, building, and operating production SaaS systems. Proven ability to own backend services end-to-end — from API design and data modeling to performance optimization, deployment, and reliability in live environments.
+Full Stack Software Developer with 3+ years of experience building and maintaining production web applications using React, Next.js, Node.js, and MongoDB.
 
-Built systems serving 10,000+ users, reduced API latency by 30% through query optimization and indexing, lowered cloud costs by 25%, and delivered high-throughput streaming pipelines for large data workloads. Strong foundation in system design, data consistency, and operational excellence.
+Experienced in implementing REST APIs, authentication, dashboards, file uploads, and performance improvements. Comfortable joining existing codebases, fixing bugs, and delivering features under deadlines as part of a remote team.
 
----
-
-## Technical Skills
-
-- **System Design:** High-throughput APIs, streaming data pipelines, background processing
-- **Backend:** NestJS, Node.js, REST APIs, MongoDB, PostgreSQL
-- **Frontend:** Next.js, React, TypeScript
-- **Cloud & DevOps:** AWS (S3, EC2), Docker, CI/CD, Linux
-- **Engineering Practices:** Code reviews, automated testing, mentoring, on-call ownership
+Available for remote full-stack or backend roles. Open to contract or full-time opportunities. Can start immediately.
 
 ---
 
-## Professional Experience
+## Tech stack
 
-### Software Engineer II — **Stealth Startup**
+**Frontend**
 
-_Aug 2024 – Present_
+- React, Next.js
+- JavaScript, TypeScript
+- Tailwind CSS, CSS Modules
 
-- Designed and owned backend services for a production SaaS platform serving **5,000+ active users** with **99.5% uptime**
-- Designed a **streaming-based large-file upload system** to eliminate memory bottlenecks under high concurrency; supports **100GB+ files** and **10,000+ concurrent uploads**
-- Reduced upload failure rate from **15% → 2%** and server memory usage by **60%** through chunked processing and retries
-- Built high-throughput **ARW image preview pipeline** processing **50,000+ images/month**, reducing preview time from **5s → <1s**
-- **Own infrastructure and cost optimization**: cut AWS spend by **25%** via EC2 right-sizing and S3 lifecycle policies
-- **Own CI/CD and deployments**: implemented blue-green releases, reducing deploy time **20 min → 5 min** with zero downtime
+**Backend**
 
-**Tech:** Next.js, NestJS, TypeScript, AWS (S3, EC2), Docker
+- Node.js, Express
+- REST APIs
+- Authentication & authorization (JWT, sessions)
 
----
+**Databases**
 
-### Software Engineer — **IvyOasis**
+- MongoDB
+- PostgreSQL
+- Basic query optimization and indexing
 
-_Dec 2023 – Jun 2024_
+**DevOps & Tools**
 
-- Architected and shipped core features for a tutoring platform serving **1,200+ active users**
-- Increased MAU by **35%** in 6 months through performance and feature improvements
-- **Owned database performance**: redesigned query patterns and indexing, cutting API latency **30% (1.2s → 840ms)** and query costs **40%**
-- Led automated testing adoption to **75% coverage**, reducing production bugs by **50%**
-
-**Tech:** NestJS, Next.js, MongoDB
-
----
-
-### Software Engineer — **ShellBeehaken Ltd**
-
-_Feb 2023 – Nov 2023_
-
-- Delivered MERN-based workspace platform for **500+ users**
-- Improved location search latency by **45%** and system uptime **95% → 98.5%**
-- Dockerized services, reducing deployment time by **70%**
-
-**Tech:** MongoDB, Express, React, Node.js, Docker
+- Git, GitHub
+- Docker (basic usage)
+- CI/CD with GitHub Actions (basic pipelines)
+- Jira, Trello, Linear (task tracking)
+- Postman, Insomnia (API testing)
 
 ---
 
-## Production Systems & Engineering Work
+## Recent work
 
-### Large-File Upload Platform (Production)
+### Web application for managing users and subscriptions
 
-**Next.js • NestJS • AWS S3**
-
-- Streaming architecture supporting **100GB+ files** and **10,000+ concurrent uploads**
-- Memory-safe chunked processing with retries and failure recovery
-- Used daily in production by thousands of users
-
----
-
-### StayHub — Vacation Rental Platform
-
-**Next.js • TypeScript • MongoDB • Prisma**
-
-- High-performance search with **15+ filters** using compound indexes
-- Transaction-safe reservation system with conflict detection
-- OAuth auth (Google/GitHub) and multi-step listing flow
+- Worked on a full-stack web app for managing users, plans, and team access.
+- Implemented REST APIs for user management, authentication, and simple role-based access.
+- Built React/Next.js UI for login, registration, billing pages, and admin views.
+- Helped improve responsiveness and usability across desktop and mobile.
 
 ---
 
-### Crumbit — Social Discussion Platform
+### File upload and processing features
 
-**Next.js • MongoDB • Redis**
-
-- Redis-backed caching reducing hot-path API latency by **60%**
-- Deeply nested comments, real-time voting, infinite scroll
-- **95+ Lighthouse score**
+- Implemented a streaming-based file upload system for large files with retry handling.
+- Added validation, progress indication, and error handling on the frontend.
+- Integrated background processing for uploaded files to keep the UI responsive.
 
 ---
 
-## Tech Stack
+### Dashboards & analytics
 
-**Languages:** TypeScript, JavaScript, Python
-**Backend:** NestJS, Node.js, Express
-**Frontend:** React, Next.js
-**Databases:** MongoDB, PostgreSQL
-**Cloud/DevOps:** AWS, Docker, Linux, CI/CD
-**Architecture:** REST APIs, Streaming Systems, Service-Oriented Design
+- Worked on analytics dashboards for web app users.
+- Built tables, filters, charts, and search to help users explore and understand their data.
+- Added CSV export and basic activity logs for key actions.
 
 ---
 
-## Education
+### Maintenance, bug fixing, and refactoring
 
-**B.Sc. in Software Engineering**
-Shahjalal University of Science and Technology
-CGPA: **3.61 / 4.00**
+- Joined existing codebases and implemented new features following established patterns.
+- Investigated and fixed production bugs reported by users or QA.
+- Helped refactor legacy parts of the code to be clearer and easier to maintain.
+- Wrote small integration and unit tests for critical paths.
 
 ---
 
-## Availability
+## How I work
 
-Seeking **remote backend or full-stack roles** (EU / US) on **SaaS, B2B, or infrastructure-focused teams**.
+- Comfortable working in existing projects with existing conventions.
+- Focus on writing clear, maintainable code and documentation.
+- Communicate regularly about progress, blockers, and timelines.
+- Used to async communication and task tracking in remote teams.
+- Open to code reviews, feedback, and pairing when needed.
 
-If your team needs an engineer who **owns systems end-to-end and ships under real constraints**, let's talk.
+---
+
+## Availability & contact
+
+- Available for remote full-stack or backend positions.
+- Open to contract or full-time roles.
+- Can start immediately and happy to commit for at least the next 6–12 months.
+
+**Contact:**
+
+- Email: dev.mhpulok@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marufhpulok
+- GitHub: https://github.com/MarufPulok
